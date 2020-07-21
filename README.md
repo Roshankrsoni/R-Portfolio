@@ -6,7 +6,7 @@
 **Technologies used** : HTML5, CSS3, JS, ES6
 
 Updated Portfolio can be seen here 
-  [link to Portfolio Roshankrsoni!](https://iRoshan.now.sh)
+  [link to Portfolio](https://iRoshan.now.sh)
 
 
 
@@ -14,6 +14,6 @@ Updated Portfolio can be seen here
 
 Name  | Roles
 ------------ | -------------
-:sunglasses: [Roshankrsoni!](https://github.com/Roshankrsoni) | **Owner**
-:nerd_face: @roshankr-asort  | **Contributor**
-:woman_office_worker:	@Priyanka2637  |  **Contributor**
+:sunglasses: [@Roshankrsoni](https://github.com/Roshankrsoni) | **Owner**
+:nerd_face: [@roshankr-asort](https://github.com/roshankr-asort)  | **Contributor**
+:woman_office_worker: [@Priyanka2637](https://github.com/Priyanka2637)  |  **Contributor**
