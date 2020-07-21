@@ -14,6 +14,6 @@ Updated Portfolio can be seen here
 
 Name  | Roles
 ------------ | -------------
-:sunglasses: @Roshankrsoni  | **Owner**
+ @Roshankrsoni  | **Owner**
 :nerd_face: @roshankr-asort  | **Contributor**
 :woman_office_worker:	@Priyanka2637  |  **Contributor**
