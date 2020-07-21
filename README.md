@@ -10,7 +10,7 @@ Updated Portfolio can be seen here
 
 
 
-**Our contributors** 
+## **Our contributors** 
 
 Name  | Roles
 ------------ | -------------
